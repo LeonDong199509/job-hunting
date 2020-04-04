@@ -1,2 +1,3 @@
 # job-hunting
-storing interview experiences and questions
+
+Documenting interview experiences and questions
